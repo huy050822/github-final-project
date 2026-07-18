@@ -17,3 +17,4 @@ This is a simple web application that calculates simple interest based on the pr
 - HTML
 - CSS
 - JavaScript
+Fixed typo
